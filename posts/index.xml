@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 小狗窝</title>
+    <link>http://wodoge.com/posts/</link>
+    <description>Recent content in Posts on 小狗窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Aug 2019 18:40:37 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wodoge.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bb</title>
-      <link>http://example.org/posts/bb/</link>
+      <link>http://wodoge.com/posts/bb/</link>
       <pubDate>Fri, 30 Aug 2019 18:40:37 +0800</pubDate>
       
-      <guid>http://example.org/posts/bb/</guid>
+      <guid>http://wodoge.com/posts/bb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aaa</title>
-      <link>http://example.org/posts/aaa/</link>
+      <title>filebeat工作原理</title>
+      <link>http://wodoge.com/posts/filebeat%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</link>
       <pubDate>Fri, 30 Aug 2019 17:52:57 +0800</pubDate>
       
-      <guid>http://example.org/posts/aaa/</guid>
-      <description></description>
+      <guid>http://wodoge.com/posts/filebeat%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</guid>
+      <description>Filebeat filebeat 是一个轻量级转发日志的运输器
+filebeat 由 input 和 harvester 组成，架构如图所示
+input input 负责管理 harvester 以及寻找所有的可读源
+harvester harvester 负责从文件中读取内容，一个 harvester 对应一个文件</description>
     </item>
     
   </channel>
