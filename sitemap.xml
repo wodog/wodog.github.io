@@ -1,33 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="http://wodoge.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wodoge.com/posts/bb/</loc>
-    <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <loc>http://wodoge.com/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://wodoge.com/posts/</loc>
+    <loc>http://wodoge.com/tags/elk/</loc>
     <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://wodoge.com/post/filebeat%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://wodoge.com/post/</loc>
+    <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://wodoge.com/tags/</loc>
+    <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://wodoge.com/</loc>
     <lastmod>2019-08-30T18:40:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://wodoge.com/posts/filebeat%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2019-08-30T17:52:57+08:00</lastmod>
+    <loc>http://wodoge.com/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://wodoge.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wodoge.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
